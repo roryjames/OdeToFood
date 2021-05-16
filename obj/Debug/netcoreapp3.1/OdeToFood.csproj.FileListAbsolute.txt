@@ -1,0 +1,76 @@
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.exe
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.deps.json
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.runtimeconfig.json
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.runtimeconfig.dev.json
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.dll
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.pdb
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Views.dll
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Views.pdb
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csprojAssemblyReference.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.AssemblyInfoInputs.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.AssemblyInfo.cs
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CoreCompileInputs.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorAssemblyInfo.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorAssemblyInfo.cs
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\staticwebassets\OdeToFood.StaticWebAssets.Manifest.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\staticwebassets\OdeToFood.StaticWebAssets.xml
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\scopedcss\bundle\OdeToFood.styles.css
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.TagHelpers.input.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.TagHelpers.output.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorCoreGenerate.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorTargetAssemblyInfo.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorTargetAssemblyInfo.cs
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.Views.pdb
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.dll
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.pdb
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
+D:\Rory\Documents\code\Pluralsight\ASPNET Core\Ode To Food\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+D:\Rory\Documents\code\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Rory\Documents\code\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Rory\Documents\code\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.exe
+D:\Rory\Documents\code\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.deps.json
+D:\Rory\Documents\code\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.runtimeconfig.json
+D:\Rory\Documents\code\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.runtimeconfig.dev.json
+D:\Rory\Documents\code\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.dll
+D:\Rory\Documents\code\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.pdb
+D:\Rory\Documents\code\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Views.dll
+D:\Rory\Documents\code\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Views.pdb
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csprojAssemblyReference.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.AssemblyInfoInputs.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.AssemblyInfo.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CoreCompileInputs.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorAssemblyInfo.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorAssemblyInfo.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\staticwebassets\OdeToFood.StaticWebAssets.Manifest.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\staticwebassets\OdeToFood.StaticWebAssets.xml
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\scopedcss\bundle\OdeToFood.styles.css
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.TagHelpers.input.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.TagHelpers.output.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorCoreGenerate.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorTargetAssemblyInfo.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorTargetAssemblyInfo.cs
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.Views.pdb
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.dll
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.pdb
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
+D:\Rory\Documents\code\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
